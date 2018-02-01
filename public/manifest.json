@@ -1,0 +1,8 @@
+{
+  "short_name": "Shipping Label",
+  "name": "Shipping label using create-react-app",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
